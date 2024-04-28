@@ -1,0 +1,12 @@
+Dependencies for Project 'lab4', Target 'EK-TM4C1294XL': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARM-Compiler5
+F (.\main.c)(0x661969FD)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\TivaWare_C_Series-2.2.0.295 --c99-I.\RTE\_EK-TM4C1294XL-IC:\Users\daiar\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-IC:\Users\daiar\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="539" -D_RTE_ -DTM4C1294NCPDT -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARM-Compiler5\include\stdint.h)(0x5E8ED772)
+I (C:\Keil_v5\ARM\ARM-Compiler5\include\stdbool.h)(0x5E8ED772)
+I (..\TivaWare_C_Series-2.2.0.295\inc/hw_memmap.h)(0x66195E0D)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/debug.h)(0x66195DE1)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/gpio.h)(0x66195DE1)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/sysctl.h)(0x66195DE1)
+F (..\TivaWare_C_Series-2.2.0.295\examples\boards\ek-tm4c1294xl\blinky\startup_rvmdk.S)(0x66195DF3)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_EK-TM4C1294XL-IC:\Users\daiar\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include-IC:\Users\daiar\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129--pd "__UVISION_VERSION SETA 539" --pd "_RTE_ SETA 1" --pd "TM4C1294NCPDT SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (.\readme.txt)(0x662E8897)()
+F (..\TivaWare_C_Series-2.2.0.295\driverlib\rvmdk\driverlib.lib)(0x661964D7)()
